@@ -32,15 +32,27 @@
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hritcode&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true" />
+<!-- GitHub Stats -->
+<img width="49%"
+src="https://github-stats-extended.vercel.app/api?username=hritcode&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+alt="GitHub Statistics" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hritcode&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+<!-- Top Languages -->
+<img width="49%"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=hritcode&layout=compact&theme=tokyonight&hide_border=true"
+alt="Top Programming Languages" />
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=hritcode&theme=tokyonight&hide_border=true" />
+<br/><br/>
+
+<!-- GitHub Streak -->
+<img width="70%"
+src="https://streak-stats.demolab.com?user=hritcode&theme=tokyonight&hide_border=true"
+alt="GitHub Contribution Streak" />
 
 </div>
 
