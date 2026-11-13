@@ -35,11 +35,11 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hritcode&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hritcode&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=hritcode&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -49,7 +49,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution animation" />
+<img src="https://raw.githubusercontent.com/hritcode/hritcode/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution animation" />
 
 </div>
 
@@ -59,15 +59,15 @@
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/hritcode">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/hritpanja27/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:hritpanja@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -81,6 +81,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet" />
+<img src="https://komarev.com/ghpvc/?username=hritcode&style=for-the-badge&color=blueviolet" />
 
 </div>
