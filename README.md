@@ -1,3 +1,4 @@
+![logo](https://github.com/hritcode/hritcode/blob/main/banner.jpeg)
 # 👋 Hi, I'm Hrit Panja
 
 <div align="center">
